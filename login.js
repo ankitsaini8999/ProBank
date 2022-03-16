@@ -16,8 +16,8 @@ const account1 = {
 		"2021-07-28T23:36:17.929Z",
 		"2021-08-01T10:51:36.790Z",
 	],
-	currency: "EUR",
-	locale: "pt-PT", // de-DE
+	currency: "INR",
+	locale: "en-IN", // de-DE
 };
 
 const account2 = {
